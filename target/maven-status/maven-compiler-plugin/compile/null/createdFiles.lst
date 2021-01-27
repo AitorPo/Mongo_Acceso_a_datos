@@ -1,0 +1,8 @@
+com\sanvalero\ejemplofxml\domain\Coche.class
+com\sanvalero\ejemplofxml\CocheDAO.class
+com\sanvalero\ejemplofxml\AppController$1.class
+com\sanvalero\ejemplofxml\AppController.class
+com\sanvalero\ejemplofxml\util\R.class
+com\sanvalero\ejemplofxml\App.class
+com\sanvalero\ejemplofxml\util\AlertUtils.class
+com\sanvalero\ejemplofxml\AppController$Accion.class
